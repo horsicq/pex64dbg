@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/peicon.png</file>
+        <file>images/pemain.png</file>
+    </qresource>
+</RCC>
