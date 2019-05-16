@@ -1,0 +1,15 @@
+[submodule "pe/FormatWidgets"]
+	path = pe/FormatWidgets
+	url = git@github.com:horsicq/FormatWidgets.git
+[submodule "pe/FormatDialogs"]
+	path = pe/FormatDialogs
+	url = git@github.com:horsicq/FormatDialogs.git
+[submodule "pe/Controls"]
+	path = pe/Controls
+	url = git@github.com:horsicq/Controls.git
+[submodule "pe/Formats"]
+	path = pe/Formats
+	url = git@github.com:horsicq/Formats.git
+[submodule "pe/QHexView"]
+	path = pe/QHexView
+	url = git@github.com:horsicq/QHexView.git
