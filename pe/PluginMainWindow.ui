@@ -14,8 +14,8 @@
    <string>QtPlugin</string>
   </property>
   <property name="windowIcon">
-   <iconset>
-    <normaloff>:/icons/images/icon.png</normaloff>:/icons/images/icon.png</iconset>
+   <iconset resource="resource.qrc">
+    <normaloff>:/icons_pe/images/peicon.png</normaloff>:/icons_pe/images/peicon.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
@@ -48,6 +48,8 @@
    <container>1</container>
   </customwidget>
  </customwidgets>
- <resources/>
+ <resources>
+  <include location="resource.qrc"/>
+ </resources>
  <connections/>
 </ui>
