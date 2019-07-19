@@ -110,7 +110,7 @@ extern "C" __declspec(dllexport) void CBCREATEPROCESS(CBTYPE cbType, PLUG_CB_CRE
 
             Plugin::pFile->setFileName(Plugin::sCurrentFileName);
 
-            if(XBinary::tryToOpen(Plugin::pFile))
+            if(Plugin::pFile->open(QIODevice::ReadOnly))
             {
                 Plugin::pFormResult->show();
                 Plugin::pFormResult->setData(Plugin::pFile,&Plugin::options);
