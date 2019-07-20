@@ -25,8 +25,8 @@
 //#include "PluginMainWindow.h"
 
 #define plugin_name "PE Viewer"
-#define plugin_version 2 // 0.02
-#define plugin_version_str "0.02" // 0.02
+#define plugin_version 3 // 0.03
+#define plugin_version_str "0.03" // 0.03
 
 namespace QtPlugin
 {

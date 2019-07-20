@@ -32,7 +32,7 @@ PluginTabWidget::PluginTabWidget(QWidget* parent) :
     setLayout(layout);
     //    setWindowTitle(mPluginMainWindow->windowTitle());
     setWindowTitle(tr("PE Viewer"));
-    setWindowIcon(QIcon(":/icons_pe/images/peicon.png"));
+    setWindowIcon(QIcon(":/icons_peviewer/images/peicon.png"));
 }
 
 void PluginTabWidget::closeEvent(QCloseEvent* event)

@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/icons_pe">
+    <qresource prefix="/icons_peviewer">
         <file>images/peicon.png</file>
         <file>images/pemain.png</file>
     </qresource>
