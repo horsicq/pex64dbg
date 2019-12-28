@@ -38,7 +38,7 @@ extern int hMenuDump;
 extern int hMenuStack;
 extern QString sCurrentFileName;
 extern PEWidget *pFormResult;
-extern FormatWidget::OPTIONS options;
+extern FW_DEF::OPTIONS options;
 extern QFile *pFile;
 
 enum PLUGIN_MENU
