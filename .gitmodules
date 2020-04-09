@@ -13,3 +13,6 @@
 [submodule "pe/QHexView"]
 	path = pe/QHexView
 	url = https://github.com/horsicq/QHexView.git
+[submodule "pe/XMemoryMapWidget"]
+	path = pe/XMemoryMapWidget
+	url = https://github.com/horsicq/XMemoryMapWidget.git
