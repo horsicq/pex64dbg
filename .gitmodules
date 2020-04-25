@@ -16,3 +16,6 @@
 [submodule "pe/XMemoryMapWidget"]
 	path = pe/XMemoryMapWidget
 	url = https://github.com/horsicq/XMemoryMapWidget.git
+[submodule "pe/XEntropyWidget"]
+	path = pe/XEntropyWidget
+	url = https://github.com/horsicq/XEntropyWidget.git
