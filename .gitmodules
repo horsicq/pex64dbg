@@ -19,3 +19,6 @@
 [submodule "pe/XEntropyWidget"]
 	path = pe/XEntropyWidget
 	url = https://github.com/horsicq/XEntropyWidget.git
+[submodule "pe/XQwt"]
+	path = pe/XQwt
+	url = https://github.com/horsicq/XQwt.git
