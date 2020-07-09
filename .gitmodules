@@ -22,3 +22,18 @@
 [submodule "pe/XQwt"]
 	path = pe/XQwt
 	url = https://github.com/horsicq/XQwt.git
+[submodule "pe/XHashWidget"]
+	path = pe/XHashWidget
+	url = https://github.com/horsicq/XHashWidget.git
+[submodule "pe/StaticScan"]
+	path = pe/StaticScan
+	url = https://github.com/horsicq/StaticScan.git
+[submodule "pe/SpecAbstract"]
+	path = pe/SpecAbstract
+	url = https://github.com/horsicq/SpecAbstract.git
+[submodule "pe/XArchive"]
+	path = pe/XArchive
+	url = https://github.com/horsicq/XArchive.git
+[submodule "pe/XDEX"]
+	path = pe/XDEX
+	url = https://github.com/horsicq/XDEX.git
