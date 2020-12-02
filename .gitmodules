@@ -37,3 +37,6 @@
 [submodule "pe/XDEX"]
 	path = pe/XDEX
 	url = https://github.com/horsicq/XDEX.git
+[submodule "XHexView"]
+	path = XHexView
+	url = https://github.com/horsicq/XHexView.git
