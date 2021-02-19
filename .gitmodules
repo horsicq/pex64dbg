@@ -37,18 +37,6 @@
 [submodule "pe/XDEX"]
 	path = pe/XDEX
 	url = https://github.com/horsicq/XDEX.git
-[submodule "XHexView"]
-	path = XHexView
-	url = https://github.com/horsicq/XHexView.git
-[submodule "XDisasmView"]
-	path = XDisasmView
-	url = https://github.com/horsicq/XDisasmView.git
-[submodule "XShortcuts"]
-	path = XShortcuts
-	url = https://github.com/horsicq/XShortcuts.git
-[submodule "signatures"]
-	path = signatures
-	url = https://github.com/horsicq/signatures.git
 [submodule "pe/signatures"]
 	path = pe/signatures
 	url = https://github.com/horsicq/signatures.git
