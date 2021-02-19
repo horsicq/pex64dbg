@@ -49,3 +49,18 @@
 [submodule "signatures"]
 	path = signatures
 	url = https://github.com/horsicq/signatures.git
+[submodule "pe/signatures"]
+	path = pe/signatures
+	url = https://github.com/horsicq/signatures.git
+[submodule "pe/XDisasmView"]
+	path = pe/XDisasmView
+	url = https://github.com/horsicq/XDisasmView.git
+[submodule "pe/XHexView"]
+	path = pe/XHexView
+	url = https://github.com/horsicq/XHexView.git
+[submodule "pe/XShortcuts"]
+	path = pe/XShortcuts
+	url = https://github.com/horsicq/XShortcuts.git
+[submodule "pe/XHexEdit"]
+	path = pe/XHexEdit
+	url = https://github.com/horsicq/XHexEdit.git
