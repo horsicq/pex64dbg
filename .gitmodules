@@ -46,3 +46,6 @@
 [submodule "XShortcuts"]
 	path = XShortcuts
 	url = https://github.com/horsicq/XShortcuts.git
+[submodule "signatures"]
+	path = signatures
+	url = https://github.com/horsicq/signatures.git
