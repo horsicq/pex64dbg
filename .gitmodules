@@ -52,3 +52,6 @@
 [submodule "pe/XHexEdit"]
 	path = pe/XHexEdit
 	url = https://github.com/horsicq/XHexEdit.git
+[submodule "pe/XDemangle"]
+	path = pe/XDemangle
+	url = https://github.com/horsicq/XDemangle.git
