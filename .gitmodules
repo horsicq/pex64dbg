@@ -55,3 +55,6 @@
 [submodule "pe/XDemangle"]
 	path = pe/XDemangle
 	url = https://github.com/horsicq/XDemangle.git
+[submodule "pe/XDemangleWidget"]
+	path = pe/XDemangleWidget
+	url = https://github.com/horsicq/XDemangleWidget.git
