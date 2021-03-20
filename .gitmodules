@@ -58,3 +58,6 @@
 [submodule "pe/XDemangleWidget"]
 	path = pe/XDemangleWidget
 	url = https://github.com/horsicq/XDemangleWidget.git
+[submodule "pe/XLLVMDemangler"]
+	path = pe/XLLVMDemangler
+	url = https://github.com/horsicq/XLLVMDemangler.git
