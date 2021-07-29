@@ -67,3 +67,6 @@
 [submodule "pe/XCppfilt"]
 	path = pe/XCppfilt
 	url = https://github.com/horsicq/XCppfilt
+[submodule "pe/XOptions"]
+	path = pe/XOptions
+	url = https://github.com/horsicq/XOptions
