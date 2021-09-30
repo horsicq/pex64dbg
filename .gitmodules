@@ -70,3 +70,12 @@
 [submodule "pe/XOptions"]
 	path = pe/XOptions
 	url = https://github.com/horsicq/XOptions
+[submodule "pe/XDynStructs"]
+	path = pe/XDynStructs
+	url = https://github.com/horsicq/XDynStructs
+[submodule "pe/XDynStructsEngine"]
+	path = pe/XDynStructsEngine
+	url = https://github.com/horsicq/XDynStructsEngine
+[submodule "pe/XDynStructsWidget"]
+	path = pe/XDynStructsWidget
+	url = https://github.com/horsicq/XDynStructsWidget
