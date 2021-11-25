@@ -79,3 +79,6 @@
 [submodule "pe/XDynStructsWidget"]
 	path = pe/XDynStructsWidget
 	url = https://github.com/horsicq/XDynStructsWidget
+[submodule "pe/XCapstone"]
+	path = pe/XCapstone
+	url = https://github.com/horsicq/XCapstone
