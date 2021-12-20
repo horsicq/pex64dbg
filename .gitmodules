@@ -82,3 +82,6 @@
 [submodule "pe/XCapstone"]
 	path = pe/XCapstone
 	url = https://github.com/horsicq/XCapstone
+[submodule "pe/XFileInfo"]
+	path = pe/XFileInfo
+	url = https://github.com/horsicq/XFileInfo
