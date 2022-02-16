@@ -85,3 +85,6 @@
 [submodule "pe/XFileInfo"]
 	path = pe/XFileInfo
 	url = https://github.com/horsicq/XFileInfo
+[submodule "pe/XPDF"]
+	path = pe/XPDF
+	url = https://github.com/horsicq/XPDF
