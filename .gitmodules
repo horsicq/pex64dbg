@@ -88,3 +88,15 @@
 [submodule "pe/XPDF"]
 	path = pe/XPDF
 	url = https://github.com/horsicq/XPDF
+[submodule "pe/XStyles"]
+	path = pe/XStyles
+	url = https://github.com/horsicq/XStyles
+[submodule "pe/XTranslation"]
+	path = pe/XTranslation
+	url = https://github.com/horsicq/XTranslation
+[submodule "pe/XDisasm"]
+	path = pe/XDisasm
+	url = https://github.com/horsicq/XDisasm
+[submodule "pe/archive_widget"]
+	path = pe/archive_widget
+	url = https://github.com/horsicq/archive_widget
