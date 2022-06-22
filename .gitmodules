@@ -106,3 +106,6 @@
 [submodule "pe/XSymbolsWidget"]
 	path = pe/XSymbolsWidget
 	url = https://github.com/horsicq/XSymbolsWidget
+[submodule "pe/XOnlineTools"]
+	path = pe/XOnlineTools
+	url = https://github.com/horsicq/XOnlineTools
