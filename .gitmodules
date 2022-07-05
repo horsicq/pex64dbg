@@ -109,3 +109,6 @@
 [submodule "pe/XOnlineTools"]
 	path = pe/XOnlineTools
 	url = https://github.com/horsicq/XOnlineTools
+[submodule "pe/XAboutWidget"]
+	path = pe/XAboutWidget
+	url = https://github.com/horsicq/XAboutWidget
