@@ -112,3 +112,6 @@
 [submodule "pe/XAboutWidget"]
 	path = pe/XAboutWidget
 	url = https://github.com/horsicq/XAboutWidget
+[submodule "pe/die_script"]
+	path = pe/die_script
+	url = https://github.com/horsicq/die_script
