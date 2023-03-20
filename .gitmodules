@@ -124,3 +124,6 @@
 [submodule "pe/XVisualizationWidget"]
 	path = pe/XVisualizationWidget
 	url = https://github.com/horsicq/XVisualizationWidget
+[submodule "pe/XDecompiler"]
+	path = pe/XDecompiler
+	url = https://github.com/horsicq/XDecompiler
