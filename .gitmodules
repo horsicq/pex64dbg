@@ -130,3 +130,6 @@
 [submodule "pe/XYara"]
 	path = pe/XYara
 	url = https://github.com/horsicq/XYara
+[submodule "pe/yara_widget"]
+	path = pe/yara_widget
+	url = https://github.com/horsicq/yara_widget
