@@ -133,3 +133,9 @@
 [submodule "pe/yara_widget"]
 	path = pe/yara_widget
 	url = https://github.com/horsicq/yara_widget
+[submodule "pe/nfd_widget"]
+	path = pe/nfd_widget
+	url = https://github.com/horsicq/nfd_widget
+[submodule "pe/die_widget"]
+	path = pe/die_widget
+	url = https://github.com/horsicq/die_widget
