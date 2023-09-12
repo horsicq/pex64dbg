@@ -139,3 +139,6 @@
 [submodule "pe/die_widget"]
 	path = pe/die_widget
 	url = https://github.com/horsicq/die_widget
+[submodule "pe/Detect-It-Easy"]
+	path = pe/Detect-It-Easy
+	url = https://github.com/horsicq/Detect-It-Easy
