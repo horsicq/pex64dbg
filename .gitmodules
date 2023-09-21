@@ -118,6 +118,9 @@
 [submodule "pe/hex_templates"]
 	path = pe/hex_templates
 	url = https://github.com/horsicq/hex_templates
+[submodule "pe/XExtractor"]
+	path = pe/XExtractor
+	url = https://github.com/horsicq/XExtractor
 [submodule "pe/XExtractorWidget"]
 	path = pe/XExtractorWidget
 	url = https://github.com/horsicq/XExtractorWidget
