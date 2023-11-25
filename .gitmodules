@@ -145,3 +145,6 @@
 [submodule "pe/Detect-It-Easy"]
 	path = pe/Detect-It-Easy
 	url = https://github.com/horsicq/Detect-It-Easy
+[submodule "pe/XDataConvertorWidget"]
+	path = pe/XDataConvertorWidget
+	url = https://github.com/horsicq/XDataConvertorWidget
