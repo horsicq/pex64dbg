@@ -151,3 +151,6 @@
 [submodule "pe/XScanEngine"]
 	path = pe/XScanEngine
 	url = https://github.com/horsicq/XScanEngine
+[submodule "pe/XDisasmCore"]
+	path = pe/XDisasmCore
+	url = https://github.com/horsicq/XDisasmCore.git
