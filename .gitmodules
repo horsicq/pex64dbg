@@ -154,3 +154,6 @@
 [submodule "pe/XDisasmCore"]
 	path = pe/XDisasmCore
 	url = https://github.com/horsicq/XDisasmCore.git
+[submodule "pe/XRegionsWidget"]
+	path = pe/XRegionsWidget
+	url = https://github.com/horsicq/XRegionsWidget.git
