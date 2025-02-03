@@ -157,3 +157,9 @@
 [submodule "pe/XRegionsWidget"]
 	path = pe/XRegionsWidget
 	url = https://github.com/horsicq/XRegionsWidget.git
+[submodule "pe/XUpdate"]
+	path = pe/XUpdate
+	url = https://github.com/horsicq/XUpdate
+[submodule "pe/XGithub"]
+	path = pe/XGithub
+	url = https://github.com/horsicq/XGithub
