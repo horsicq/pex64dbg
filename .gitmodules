@@ -160,3 +160,6 @@
 [submodule "pe/XGithub"]
 	path = pe/XGithub
 	url = https://github.com/horsicq/XGithub
+[submodule "pe/XStaticUnpacker"]
+	path = pe/XStaticUnpacker
+	url = https://github.com/horsicq/XStaticUnpacker
