@@ -139,5 +139,5 @@ RESOURCES += \
 
 !contains(XCONFIG, formresult) {
     XCONFIG += formresult
-    include(../../../_mylibs/FormatWidgets/PE/pewidget.pri)
+    include(FormatWidgets/PE/pewidget.pri)
 }
