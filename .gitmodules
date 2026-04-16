@@ -166,3 +166,6 @@
 [submodule "pe/XPEID"]
 	path = pe/XPEID
 	url = https://github.com/horsicq/XPEID
+[submodule "pe/peid_widget"]
+	path = pe/peid_widget
+	url = https://github.com/horsicq/peid_widget
