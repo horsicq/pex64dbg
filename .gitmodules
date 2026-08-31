@@ -1,0 +1,168 @@
+[submodule "pe/Controls"]
+	path = pe/Controls
+	url = https://github.com/horsicq/Controls
+[submodule "pe/Detect-It-Easy"]
+	path = pe/Detect-It-Easy
+	url = https://github.com/horsicq/Detect-It-Easy
+[submodule "pe/FormatDialogs"]
+	path = pe/FormatDialogs
+	url = https://github.com/horsicq/FormatDialogs
+[submodule "pe/FormatWidgets"]
+	path = pe/FormatWidgets
+	url = https://github.com/horsicq/FormatWidgets
+[submodule "pe/Formats"]
+	path = pe/Formats
+	url = https://github.com/horsicq/Formats
+[submodule "pe/XAboutWidget"]
+	path = pe/XAboutWidget
+	url = https://github.com/horsicq/XAboutWidget
+[submodule "pe/XArchive"]
+	path = pe/XArchive
+	url = https://github.com/horsicq/XArchive
+[submodule "pe/XCapstone"]
+	path = pe/XCapstone
+	url = https://github.com/horsicq/XCapstone
+[submodule "pe/XCppfilt"]
+	path = pe/XCppfilt
+	url = https://github.com/horsicq/XCppfilt
+[submodule "pe/XDataConvertorWidget"]
+	path = pe/XDataConvertorWidget
+	url = https://github.com/horsicq/XDataConvertorWidget
+[submodule "pe/XDEX"]
+	path = pe/XDEX
+	url = https://github.com/horsicq/XDEX
+[submodule "pe/XDecompiler"]
+	path = pe/XDecompiler
+	url = https://github.com/horsicq/XDecompiler
+[submodule "pe/XDemangle"]
+	path = pe/XDemangle
+	url = https://github.com/horsicq/XDemangle
+[submodule "pe/XDemangleWidget"]
+	path = pe/XDemangleWidget
+	url = https://github.com/horsicq/XDemangleWidget
+[submodule "pe/XDisasmCore"]
+	path = pe/XDisasmCore
+	url = https://github.com/horsicq/XDisasmCore
+[submodule "pe/XDisasmView"]
+	path = pe/XDisasmView
+	url = https://github.com/horsicq/XDisasmView
+[submodule "pe/XDynStructs"]
+	path = pe/XDynStructs
+	url = https://github.com/horsicq/XDynStructs
+[submodule "pe/XDynStructsEngine"]
+	path = pe/XDynStructsEngine
+	url = https://github.com/horsicq/XDynStructsEngine
+[submodule "pe/XDynStructsWidget"]
+	path = pe/XDynStructsWidget
+	url = https://github.com/horsicq/XDynStructsWidget
+[submodule "pe/XEntropyWidget"]
+	path = pe/XEntropyWidget
+	url = https://github.com/horsicq/XEntropyWidget
+[submodule "pe/XExtractor"]
+	path = pe/XExtractor
+	url = https://github.com/horsicq/XExtractor
+[submodule "pe/XExtractorWidget"]
+	path = pe/XExtractorWidget
+	url = https://github.com/horsicq/XExtractorWidget
+[submodule "pe/XFileInfo"]
+	path = pe/XFileInfo
+	url = https://github.com/horsicq/XFileInfo
+[submodule "pe/XGithub"]
+	path = pe/XGithub
+	url = https://github.com/horsicq/XGithub
+[submodule "pe/XHashWidget"]
+	path = pe/XHashWidget
+	url = https://github.com/horsicq/XHashWidget
+[submodule "pe/XHexEdit"]
+	path = pe/XHexEdit
+	url = https://github.com/horsicq/XHexEdit
+[submodule "pe/XHexView"]
+	path = pe/XHexView
+	url = https://github.com/horsicq/XHexView
+[submodule "pe/XInfoDB"]
+	path = pe/XInfoDB
+	url = https://github.com/horsicq/XInfoDB
+[submodule "pe/XLLVMDemangler"]
+	path = pe/XLLVMDemangler
+	url = https://github.com/horsicq/XLLVMDemangler
+[submodule "pe/XMemoryMapWidget"]
+	path = pe/XMemoryMapWidget
+	url = https://github.com/horsicq/XMemoryMapWidget
+[submodule "pe/XOnlineTools"]
+	path = pe/XOnlineTools
+	url = https://github.com/horsicq/XOnlineTools
+[submodule "pe/XOptions"]
+	path = pe/XOptions
+	url = https://github.com/horsicq/XOptions
+[submodule "pe/XPEID"]
+	path = pe/XPEID
+	url = https://github.com/horsicq/XPEID
+[submodule "pe/peid_widget"]
+	path = pe/peid_widget
+	url = https://github.com/horsicq/peid_widget
+[submodule "pe/XPDF"]
+	path = pe/XPDF
+	url = https://github.com/horsicq/XPDF
+[submodule "pe/XQwt"]
+	path = pe/XQwt
+	url = https://github.com/horsicq/XQwt
+[submodule "pe/XRegionsWidget"]
+	path = pe/XRegionsWidget
+	url = https://github.com/horsicq/XRegionsWidget
+[submodule "pe/XScanEngine"]
+	path = pe/XScanEngine
+	url = https://github.com/horsicq/XScanEngine
+[submodule "pe/XShortcuts"]
+	path = pe/XShortcuts
+	url = https://github.com/horsicq/XShortcuts
+[submodule "pe/XStaticUnpacker"]
+	path = pe/XStaticUnpacker
+	url = https://github.com/horsicq/XStaticUnpacker
+[submodule "pe/XStyles"]
+	path = pe/XStyles
+	url = https://github.com/horsicq/XStyles
+[submodule "pe/XSymbolsWidget"]
+	path = pe/XSymbolsWidget
+	url = https://github.com/horsicq/XSymbolsWidget
+[submodule "pe/XTranslation"]
+	path = pe/XTranslation
+	url = https://github.com/horsicq/XTranslation
+[submodule "pe/XUpdate"]
+	path = pe/XUpdate
+	url = https://github.com/horsicq/XUpdate
+[submodule "pe/XVisualizationWidget"]
+	path = pe/XVisualizationWidget
+	url = https://github.com/horsicq/XVisualizationWidget
+[submodule "pe/XYara"]
+	path = pe/XYara
+	url = https://github.com/horsicq/XYara
+[submodule "pe/archive_widget"]
+	path = pe/archive_widget
+	url = https://github.com/horsicq/archive_widget
+[submodule "pe/build_tools"]
+	path = pe/build_tools
+	url = https://github.com/horsicq/build_tools
+[submodule "pe/die_script"]
+	path = pe/die_script
+	url = https://github.com/horsicq/die_script
+[submodule "pe/die_widget"]
+	path = pe/die_widget
+	url = https://github.com/horsicq/die_widget
+[submodule "pe/hex_templates"]
+	path = pe/hex_templates
+	url = https://github.com/horsicq/hex_templates
+[submodule "pe/nfd_widget"]
+	path = pe/nfd_widget
+	url = https://github.com/horsicq/nfd_widget
+[submodule "pe/signatures"]
+	path = pe/signatures
+	url = https://github.com/horsicq/signatures
+[submodule "pe/SpecAbstract"]
+	path = pe/SpecAbstract
+	url = https://github.com/horsicq/SpecAbstract
+[submodule "pe/StaticScan"]
+	path = pe/StaticScan
+	url = https://github.com/horsicq/StaticScan
+[submodule "pe/yara_widget"]
+	path = pe/yara_widget
+	url = https://github.com/horsicq/yara_widget
